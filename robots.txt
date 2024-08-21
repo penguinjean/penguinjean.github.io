@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+Allow: /
+Sitemap: https://penguinjean.github.io/sitemap.xml
