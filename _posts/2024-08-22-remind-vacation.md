@@ -2,13 +2,13 @@
 layout: post
 read_time: true
 show_date: true
-title: "Title"
+title: "방학동안 한일 모음"
 date: 2024-08-22 09:00:00 +0900
 img: posts/20240822/
 tags: [방학, 회고]
 category:
 author: Penguin Jean
-description: "description"
+description: "방학을 되돌아봤습니다."
 ---
 
 꿈 같은 방학이 끝 나갑니다. 곧 2 학기 개강인데,  방학 때 있었던 이런저런 일들 한번 이야기 해볼까 합니다.
