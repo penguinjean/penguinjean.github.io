@@ -5,7 +5,7 @@ show_date: true
 title: "방학동안 한일 모음"
 date: 2024-08-22 09:00:00 +0900
 img: posts/20240822/
-tags: [방학, 회고]
+tags: [방학, 결산]
 category:
 author: Penguin Jean
 description: "방학을 되돌아봤습니다."
