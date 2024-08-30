@@ -5,7 +5,7 @@ show_date: true
 title: "그냥 저냥 드는 생각들 모음"
 date: 2024-08-29 09:00:00 +0900
 img: posts/20240829/
-tags: [the story of penguin jean]
+tags: [theStoryOfPenguinJean]
 category: the story of penguin jean
 author: Penguin Jean
 description: "The story of penguin jean"
