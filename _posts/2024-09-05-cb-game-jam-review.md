@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "2024 충북 게임잼 리뷰"
 date: 2024-09-05 09:00:00 +0900
-img: posts/20240906/game_jam_poster.png
+img: posts/20240905/game_jam_poster.png
 tags: [게임잼, 리뷰]
 category:
 author: Penguin Jean
