@@ -4,7 +4,7 @@
 
 html {
   --accent:       #99ccff;    /* accent     */
-  --accent-dark:  #4e3e51;    /* accent 2   */
+  --accent-dark:  #0f4c81;    /* accent 2   */
   --main:         #0f4c81;    /* main color */
   --main-dim:     #0f4c81;    /* dimmed version of main color */
   --text:         #2B323B;
@@ -28,7 +28,7 @@ html {
 
 html[data-theme="dark"]  {
   --accent:       #99ccff;    /* accent     */
-  --accent-dark:  #DBBEA1;    /* accent 2   */
+  --accent-dark:  #0f4c81;    /* accent 2   */
   --main:         #0f4c81;    /* main color */
   --main-dim:     #0f4c81;    /* dimmed version of main color */
   --text:         #CBCCCD;
