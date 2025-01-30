@@ -6,7 +6,6 @@ title: "2024 인디게임 잼 대전 후기"
 date: 2024-08-08 09:00:00 +0000
 img: posts/20240808/game_jam_poster.png
 tags: [게임잼]
-category:
 author: Penguin Jean
 description: "인생 첫 게임잼에 다녀왔습니다."
 ---
