@@ -3,8 +3,8 @@ layout: post
 read_time: true
 show_date: true
 title: "2024 인디게임 잼 대전 후기"
-date: 2024-08-08 09:00:00 +0000
-img: posts/20240808/game_jam_poster.png
+date: 2024-08-04 09:00:00 +0000
+img: posts/20240804/Gamejam_poster.png
 tags: [게임잼]
 author: Penguin Jean
 description: "인생 첫 게임잼에 다녀왔습니다."
@@ -12,7 +12,7 @@ description: "인생 첫 게임잼에 다녀왔습니다."
 
 ## 0. 게임잼을 다녀왔습니다.
 
-<center><img src="./assets/img/posts/20240808/game_jam_ID_card.png"></center>
+<center><img src="./assets/img/posts/20240804/GamejamIDCard.png"></center>
 
 8/2 ~ 8/4 동안, 2024 인디 게임잼 대전에 다녀왔습니다. 참가 계기는, 교수님의  권유~~(를 빙자한 강제)~~ 였지만 상도 받고, 새로운 친구들도 사귀고 온 시간이였습니다. 
 
@@ -30,21 +30,21 @@ description: "인생 첫 게임잼에 다녀왔습니다."
 
 ## 3. 미니게임
 
-<center><img src="./assets/img/posts/20240808/game_jam_minigames_play.png"></center>
+<center><img src="./assets/img/posts/20240804/GamejamMinigamesPlay.png"></center>
 
 2일차 오후에 미니게임 이벤트가 있었습니다. 종목은 [크레이지 스타즈 스포츠클라이밍](https://store.nintendo.co.kr/70010000084182)와 [Sushi battle Rambunctiously](https://store.nintendo.co.kr/70010000076985) 2가지가 있었습니다. 저는 "크레이지 스타즈 스포츠클라이밍" 게임으로 이벤트에 참여를 했었습니다. 예선에서 1등을 했는데, 본선에서 퍼즈와 리트로 인해 박자감을 잃어 좋은 성적을 내지 못한게 아쉬웠습니다.~~(가위바위보만 잘해도 1등 할 수 있었는 ㅠㅠ)~~  Sushi battle Rambunctiously는 다른 조원분이 나가셨는데, 예선 탈락했습니다. 게임잼 기간에 스크립트와 관련 자료들만  보다가 다른 화면을 보니 먼가 리프레쉬 할 수 있어서 좋았습니다. 갑자기 많은 색이 들어와서 혼란스럽긴 했지만, 재밌는 시간이였습니다.
 
-<center><img src="./assets/img/posts/20240808/game_jam_minigames_NS_giftcode.png"></center>
+<center><img src="./assets/img/posts/20240804/GamejamMinigamesNSGiftcode.png"></center>
 
 미니게임 이벤트 끝나고, 멘토 분이 선착순으로 6명 정도에거 클라이밍 게임 코드를 나눠 주신다고 하셔서 선착순 도전을 했는데, 가위바위보를 이겨서 코드를 받았습니다. 지금 집에서 몇번 해봤는데, 나름 재밌습니다. 트리거 버튼으로 조작하는게 조금 어색 합니다. 휴대모드랑 거치모드로 둘다 한번씩 해보았는데, 확실히 트리거 버튼으로 조작하는것은 조이콘 분리해서 하는 거치모드/TV 모드나 프로콘이 편한것 같습니다.
 
 ## 4. 작품 소개
 
-<center><img src="./assets/img/posts/20240808/5T_start.png"></center>
+<center><img src="./assets/img/posts/20240804/5TStart.png"></center>
 
 제가 속한 조에서 만든 게임은 **5T0**(5 Trillion to Zero) 라는 턴제 덱 빌딩 게임입니다. 제한된 턴 안에 체력이 5조인 보스의 체력을 0으로 만드는 게임입니다. 
 
-<center><img src="./assets/img/posts/20240808/5T_character_pick.png"></center>
+<center><img src="./assets/img/posts/20240804/5TCharacterPick.png"></center>
 
 게임은 서로 다른 직업과 능력을 가진 8명의 미소녀 군단과 함께 제한된 턴 안에 체력이 **"5조"**인 마왕의 알을 0으로 만들어 마왕의 부활을 저지 하는 게임 입니다. 사진속 8명의 캐릭터는 게임이 시작할 때 모두 제공 됩니다. 다양한 캐릭터를 조합해 많은 딜을 내는 재미를 가진  게임입니다. 시연당시 최고기록이 3턴을 남기고 깨신 분일 정도로, 난이도가 조금 어려운 게임 입니다.
 <center><iframe width="760" height="427.5" src="https://www.youtube-nocookie.com/embed/-gJyXoYZpOk?si=3FrGxMxJhSXuVwgB" title="5T Demonstration video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
@@ -52,7 +52,7 @@ description: "인생 첫 게임잼에 다녀왔습니다."
 
 ## 5. 소감
 
-<center><img src="./assets/img/posts/20240808/game_jam_award.png"></center>
+<center><img src="./20240804/GamejamAward.png"></center>
 
 게임잼에 참여한 것은 자의가 아니었습니다. 하지만 게임잼은 저에게 많은 것을 가르쳐 주었습니다. 만약 제가 이 게임잼에 참여하지 않았다면, 이러한 기회가 다시 오지 않았을 것 같았습니다. 게임잼이 진행되던 48시간 동안 Unity, GitHub Desktop 등 제가 사용하고 있던 프로그램들에 대해 더 많이 알게 되었고, 다양한 외부 에셋도 접할 수 있었습니다.
 
