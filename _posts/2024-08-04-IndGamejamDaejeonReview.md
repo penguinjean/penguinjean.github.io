@@ -12,7 +12,7 @@ description: "인생 첫 게임잼에 다녀왔습니다."
 
 ## 0. 게임잼을 다녀왔습니다.
 
-<center><img src="./posts/20240804/GamejamIDCard.png"></center>
+<center><img src="./assets/img/posts/20240804/GamejamIDCard.png"></center>
 
 8/2 ~ 8/4 동안, 2024 인디 게임잼 대전에 다녀왔습니다. 참가 계기는, 교수님의  권유~~(를 빙자한 강제)~~ 였지만 상도 받고, 새로운 친구들도 사귀고 온 시간이였습니다. 
 
