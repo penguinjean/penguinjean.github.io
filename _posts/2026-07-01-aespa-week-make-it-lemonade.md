@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "aespa WEEK - MAKE IT LEMONAD"
+title: "aespa WEEK - MAKE IT LEMONADE"
 date: 2026-07-01 15:00:00 +0900
 img: posts/20260701/thumnail.jpg
 tags: [aespa WEEK, review, life]
