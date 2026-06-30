@@ -1,13 +1,19 @@
-
+# macOS & Windows system files
 .DS_Store
-/.idea/inspectionProfiles/profiles_settings.xml
-/.idea/.gitignore
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/the-mvm.github.io.iml
-/.idea/inspectionProfiles/Project_Default.xml
-/.idea/vcs.xml
-/.vscode/settings.json
-/.vscode/
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# IDE 
 /.idea/
+/.vscode/
 .liquidrc
+
+# Jekyll Local build & Caches
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby / Bundler Packages Management
+.bundle/
+vendor/

@@ -25,16 +25,16 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Penguin Jean # add your name
-author-pic: Myself_Secret_Garden.jpg
-about-author: 게임, 오마이걸, 공지호를 좋아합니다. 오마이걸 반하나의 데뷔팬으로 '바나나 알러지 원숭이' 앨범을 매우 좋아하고, 다양한 게임을 즐깁니다. 덕업일치를 꿈꾸며 게임학과에 진학했습니다.
+author-pic: Myself_Neon.jpg
+about-author: Gamer, content creator, and aespa's fan named MY. Avid learner with diverse interests in coding, cubing, 3D modeling, and game development. 5+ years of experience producing digital content.
 # Contact links
-email: penguinjean0421@gmail.com # Add your Email address
+email: ae.penguinjean@gmail.com # Add your Email address
 phone: # Add your Phone number
 website: https://penguinjean.github.io # Add your website
 linkedin: penguinjean0421 # Add your Linkedin handle
-github: penguinjean0421 # Add your Github handle
-twitter: penguinjean0421 # Add your Twitter handle
-soundcloud: penguinjean0421 # Add your soundcloud username
+instagram: penguinjean # Add your instagram handle
+github: penguinjean # Add your Github handle
+twitter: "ae-penguinjean" # Add your Twitter handle
 behance: penguinjean0421 # Add your behance account
 
 # Newsletter

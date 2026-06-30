@@ -10,14 +10,16 @@
       {% if site.linkedin %}
       <li class="linkedin"><a class="linkedin" href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
       {% endif %}
+      {% if site.instagram %}
+      <li class="instagram"><a class="instagram" href="https://instagram.com/{{site.instagram}}" target="_blank"><i
+            class="fa fa-instagram"></i></a></li>
+      {% endif %}
       {% if site.github %}
-      <li class="github"><a class="github" href="http://github.com/{{site.github}}" target="_blank"><i class="fa fa-github"></i></a></li>
+      <li class="github"><a class="github" href="http://github.com/{{site.github}}" target="_blank"><i
+            class="fa fa-github"></i></a></li>
       {% endif %}
       {% if site.email %}
       <li class="email"><a class="email" href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
-      {% endif %}
-      {% if site.soundcloud %}
-      <li class="soundcloud"><a class="soundcloud" href="https://soundcloud.com/{{site.soundcloud}}"><i class="fa fa-soundcloud"></i></a></li>
       {% endif %}
     </ul>
   </div>
