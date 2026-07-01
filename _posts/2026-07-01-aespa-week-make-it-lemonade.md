@@ -27,7 +27,7 @@ North존 예약이 오후 6시라 시간이 남아 여의도 한강 공원에 �
 <center><img src='./assets/img/posts/20260701/so-many-pocas.jpg'></center>
 팝업에 입장하니, 이번 이 번 팝업때 판매하는 MD들이 전시되어 있었다. 트레이딩 카드를 제외하고, 멤버별로 나오는 것은 대표 멤버 1명 것만 전시 되어 있었다. 이날은, 멤버들 방문 전이라 아직 멤버들의 싸인이나 흔적 같은 것은 없었다.
 
-<center><img src='./assets/img/posts/20260701/md-list.jpg'></center>
+<center><img src='./assets/img/posts/20260701/merch-list.jpg'></center>
 팝업 때 판매 했던 물품은 사진속에 있는 MD들 + 앨범 이였다. 개인적으로 폰케이스가 갖고 싶었으나, 기종 이슈로 구매를 하지 못했다. 그리고 별도의 쇼핑 봉투나 가방을 제공하지 않아서, 늦게 받더라도 온라인으로 사는게 유리하다 싶은 생각이 들었다.
 
 <center><img src='./assets/img/posts/20260701/fountain-show.jpg'></center>
@@ -52,7 +52,7 @@ North존 예약이 오후 6시라 시간이 남아 여의도 한강 공원에 �
 <center><img src='./assets/img/posts/20260701/can-version-album-vending-machine.jpg'></center>
 레몬키링이 품절되고 나서, 처음으로 온 날이였다. 오픈런 줄이 길었다. 품절 이후에, 키링은 매일 90개 정도 소량으로 들어오는거 같았다. 줄선 곳에서 캔 버전 판매하는 자판기가 보여서 찍어봤는데, 이제 닝닝과 지젤만 남은거 같다. 오프라인도 지금 가면 지젤과 닝닝만 남아 있을까? 하는 생각이 들었다.
 
-<center><img src='./assets/img/posts/20260701/pre-order-md.jpg'></center>
+<center><img src='./assets/img/posts/20260701/pre-order-merch.jpg'></center>
 다른 MD들과 달리 가격표가 붙지 않았던 MD가 있었다. 제일 갖고싶었던 MD들 이였는데, 사전 예약으로 파는 MD들 이라고 한다. 이번 MD들 전체적으로 조금 구매에 대한 고민을 많이 하는데, 인형이랑 리유저블 컵은 꼭 구매를 해야겠다 싶은 디자인 이였다. 팝업 초반에는 공지가 없었는데, 계속 질문하는 사람이 많았는지, 안내판이 계산대 앞에 붙어 있었다.
 
 ## 6월 7일
@@ -87,7 +87,7 @@ North존 예약이 오후 6시라 시간이 남아 여의도 한강 공원에 �
 <center><img src='./assets/img/posts/20260701/smini-in-kwangya.jpg'></center>
 Smini가 이렇게 전시되어 있었는데, 윈터는 2개밖에 남지 않았던 상황이였다. 이 떄, 고민을 조금 했었다. 팝업에서 Smini 실물을 보고, 아 이건 드볼 해야겠다 하는 마음이 들어서 사러 온건데, 고민하다가 윈터가 매진될까봐 망설였던 것 같다. 하지만 지금 안사면 나중에 후회 할거 같아 구매를 했다.
 
-<center><img src='./assets/img/posts/20260701/bouth-smini.jpg'></center>
+<center><img src='./assets/img/posts/20260701/bought-smini.jpg'></center>
 Smini는 이렇게 샀다. 지젤은 내가 분철 탄것이 있어 광야에서 따로 사지는 않았다. SMini를 보니 제복은 정말 오만 덕후들이 좋아할만한 요소 인 것 같다.
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1GjT1mri5wvJAYZ3rnZamk?utm_source=generator&si=becaec0e30634465" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
